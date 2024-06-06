@@ -1,0 +1,9 @@
+newsapi-python
+transformers
+selenium
+webdriver_manager
+pandas
+numpy
+beautifulsoup4
+torch
+textblob

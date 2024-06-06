@@ -1,0 +1,203 @@
+EN
+ID
+Produk & Layanan
+Saham
+Saham
+Saham (stock) merupakan salah satu instrumen pasar keuangan yang paling popular. Menerbitkan saham merupakan salah satu pilihan perusahaan ketika memutuskan untuk pendanaan perusahaan. Pada sisi yang lain, saham merupakan instrument investasi yang banyak dipilih para investor karena saham mampu memberikan tingkat keuntungan yang menarik.
+  Selengkapnya
+Informasi Umum
+Klasifikasi Sektor dan Subsektor
+Papan Pencatatan Saham
+Papan Akselerasi
+Papan Ekonomi Baru
+Baru! Papan Pemantauan Khusus
+Saham Tercatat
+
+Informasi Umum
+Saham (stock) merupakan salah satu instrumen pasar keuangan yang paling popular. Menerbitkan saham merupakan salah satu pilihan perusahaan ketika memutuskan untuk pendanaan perusahaan. Pada sisi yang lain, saham merupakan instrument investasi yang banyak dipilih para investor karena saham mampu memberikan tingkat keuntungan yang menarik.
+
+Saham dapat didefinisikan sebagai tanda penyertaan modal seseorang atau pihak (badan usaha) dalam suatu perusahaan atau perseroan terbatas. Dengan menyertakan modal tersebut, maka pihak tersebut memiliki klaim atas pendapatan perusahaan, klaim atas asset perusahaan, dan berhak hadir dalam Rapat Umum Pemegang Saham (RUPS).
+Keuntungan Saham
+Pada dasarnya, ada dua keuntungan yang diperoleh investor dengan membeli atau memiliki saham
+Dividen
+Dividen merupakan pembagian keuntungan yang diberikan perusahaan dan berasal dari keuntungan yang dihasilkan perusahaan. Dividen diberikan setelah mendapat persetujuan dari pemegang saham dalam RUPS. Jika seorang pemodal ingin mendapatkan dividen, maka pemodal tersebut harus memegang saham tersebut dalam kurun waktu yang relatif lama yaitu hingga kepemilikan saham tersebut berada dalam periode dimana diakui sebagai pemegang saham yang berhak mendapatkan dividen.
+Dividen yang dibagikan perusahaan dapat berupa dividen tunai – artinya kepada setiap pemegang saham diberikan dividen berupa uang tunai dalam jumlah rupiah tertentu untuk setiap saham - atau dapat pula berupa dividen saham yang berarti kepada setiap pemegang saham diberikan dividen sejumlah saham sehingga jumlah saham yang dimiliki seorang pemodal akan bertambah dengan adanya pembagian dividen saham tersebut.
+Capital Gain
+Capital Gain merupakan selisih antara harga beli dan harga jual. Capital gain terbentuk dengan adanya aktivitas perdagangan saham di pasar sekunder. Misalnya Investor membeli saham ABC dengan harga per saham Rp 3.000 kemudian menjualnya dengan harga Rp 3.500 per saham yang berarti pemodal tersebut mendapatkan capital gain sebesar Rp 500 untuk setiap saham yang dijualnya.
+Risiko Saham
+Sebagai instrument investasi, saham memiliki risiko, antara lain:
+Capital Loss
+Merupakan kebalikan dari Capital Gain, yaitu suatu kondisi dimana investor menjual saham lebih rendah dari harga beli. Misalnya saham PT. XYZ yang di beli dengan harga Rp 2.000,- per saham, kemudian harga saham tersebut terus mengalami penurunan hingga mencapai Rp 1.400,- per saham. Karena takut harga saham tersebut akan terus turun, investor menjual pada harga Rp 1.400,- tersebut sehingga mengalami kerugian sebesar Rp 600,- per saham.
+Risiko Likuidasi
+Perusahaan yang sahamnya dimiliki, dinyatakan bangkrut oleh Pengadilan, atau perusahaan tersebut dibubarkan. Dalam hal ini hak klaim dari pemegang saham mendapat prioritas terakhir setelah seluruh kewajiban perusahaan dapat dilunasi (dari hasil penjualan kekayaan perusahaan). Jika masih terdapat sisa dari hasil penjualan kekayaan perusahaan tersebut, maka sisa tersebut dibagi secara proporsional kepada seluruh pemegang saham. Namun jika tidak terdapat sisa kekayaan perusahaan, maka pemegang saham tidak akan memperoleh hasil dari likuidasi tersebut. Kondisi ini merupakan risiko yang terberat dari pemegang saham. Untuk itu seorang pemegang saham dituntut untuk secara terus menerus mengikuti perkembangan perusahaan.
+Di pasar sekunder atau dalam aktivitas perdagangan saham sehari-hari, harga-harga saham mengalami fluktuasi baik berupa kenaikan maupun penurunan. Pembentukan harga saham terjadi karena adanya permintaan dan penawaran atas saham tersebut. Dengan kata lain harga saham terbentuk oleh supply dan demand atas saham tersebut. Supply dan demand tersebut terjadi karena adanya banyak faktor, baik yang sifatnya spesifik atas saham tersebut (kinerja perusahaan dan industri dimana perusahaan tersebut bergerak) maupun faktor yang sifatnya makro seperti tingkat suku bunga, inflasi, nilai tukar dan faktor-faktor non ekonomi seperti kondisi sosial dan politik, dan faktor lainnya.
+Klasifikasi Sektor dan Subsektor
+Mulai 25 Januari 2021, BEI mengimplementasikan klasifikasi baru atas sektor dan industri perusahaan tercatat yang bernama “Indonesia Stock Exchange Industrial Classification” atau IDX-IC. Informasi lebih lanjut dapat diakses pada dokumen pengumuman dan panduan IDXIC di halaman ini (klik Data Pasar-Indeks Saham).
+Energi (A)
+Sektor Energi mencakup perusahaan yang menjual produk dan jasa terkait dengan ekstraksi energi yang mencakup energi tidak terbarukan (fossil fuels) sehingga pendapatannya secara langsung dipengaruhi oleh harga komoditas energi dunia, seperti perusahaan Pertambangan Minyak Bumi, Gas Alam, Batu Bara, dan perusahaan-perusahaan yang menyediakan jasa yang mendukung industri tersebut. Selain itu sektor ini juga mencakup perusahaan yang menjual produk dan jasa energi alternatif.
+Barang Baku (B)
+Industri Barang Baku mencakup perusahaan yang menjual produk dan jasa yang digunakan oleh industri lain sebagai bahan baku untuk memproduksi barang final, seperti perusahaan yang memproduksi Barang Kimia, Material Konstruksi, Wadah & Kemasan, Pertambangan Logam & Mineral Non-Energi, dan Produk Kayu & Kertas.
+Perindustrian (C)
+Industri Perindustrian mencakup perusahaan yang menjual produk dan jasa yang secara umum dikonsumsi oleh industri, bukan oleh konsumen. Produk dan jasa dihasilkan merupakan produk dan jasa final dan bukan produk yang harus diolah lagi seperti bahan baku. Industri ini mencakup produsen Barang Kedirgantaraan, Pertahanan, Produk Bangunan, Produk Kelistrikan, Mesin. Selain itu industri ini juga mencakup penyedia Jasa Komersial - seperti Percetakan, Pengelola Lingkungan, Pemasok Barang dan Jasa Industri - dan Jasa Profesional - seperti Jasa Personalia dan Jasa Penelitian - untuk keperluan industri. 
+Barang Konsumen Primer (D)
+Industri Barang Konsumen Primer mencakup perusahaan yang melakukan produksi atau distribusi produk dan jasa yang secara umum dijual pada konsumen namun tetapi untuk barang yang bersifat anti-siklis atau barang primer/dasar sehingga permintaan barang dan jasa ini tidak dipengaruhi pertumbuhan ekonomi, seperti Perusahaan Ritel Barang Primer – Toko Makanan, Toko Obat-obatan, Supermarket, Produsen Minuman, Makanan Kemasan, Penjual Produk Pertanian, Produsen Rokok, Barang Keperluan Rumah Tangga, dan Barang Perawatan Pribadi.
+Barang Konsumen Non-Primer (E)
+Industri Barang Konsumen Sekunder mencakup perusahaan yang melakukan produksi atau distribusi produk dan jasa yang secara umum dijual pada konsumen namun tetapi untuk barang yang bersifat siklis atau barang sekunder sehingga permintaan barang dan jasa ini berbanding lurus dengan pertumbuhan ekonomi. Industri ini mencakup perusahaan yang memproduksi Mobil Penumpang dan Komponennya, Barang Rumah Tangga Tahan Lama (Durable), Pakaian, Sepatu, Barang Tekstil, Barang Olahraga dan Barang Hobi. Selain itu industri ini juga mencakup perusahaan yang menyediakan Jasa Pariwisiata, Rekreasi, Pendidikan, Penunjang Konsumen, Perusahaan Media, Periklanan, Penyedia Hiburan, dan Perusahaan Ritel Barang Sekunder.
+Kesehatan (F)
+Industri Kesehatan mencakup perusahaan yang menyediakan produk dan layanan kesehatan seperti Produsen Peralatan dan Perlengkapan Kesehatan, Penyedia Jasa Kesehatan, Perusahaan Farmasi, dan Riset di Bidang Kesehatan.
+Keuangan (G)
+Industri Keuangan mencakup perusahaan yang menyediakan layanan keuangan seperti Bank, Lembaga Pembiayaan Konsumen, Modal Ventura, Jasa Investasi, Asuransi, dan Perusahaan Holdings.
+Properti & Real Estat (H)
+Industri Properti dan Real Estat mencakup perusahaan Pengembang Properti dan Real Estate dan perusahaan yang menyediakan Jasa Penunjangnya
+Teknologi (I)
+Industri Teknologi mencakup perusahaan yang menjual Produk dan Jasa Teknologi, seperti Perusahan Jasa Internet yang bukan penyedia koneksi internet, Penyedia Jasa dan Konsultan TI, Perusahaan Pengembang Perangkat Lunak, Produsen Perangkat Jaringan, Perangkat Komputer, Perangkat dan Komponen Elektronik, dan Semikonduktor.
+Infrastruktur (J)
+Industri Infrastruktur mencakup perusahaan yang berperan dalam Pembangunan dan Pengadaan Infrastruktur seperti Perusahaan Penyedia Jasa Logistik dan Pengantaran, Penyedia Transportasi, Operator Infrastruktur Transportasi, Perusahaan Konstruksi Bangunan Sipil, Perusahaan Telekomunikasi, dan Perusahaan Utilitas.
+Transportasi & Logistik (K)
+Industri Transportasi dan logistik mencakup perusahaan yang berperan dalam aktivitas perpindahan dan pengangkutan seperti , Penyedia Transportasi serta Perusahaan Penyedia Jasa Logistik dan Pengantaran.
+Produk Investasi Tercatat (Z)
+Produk Investasi Tercatat mencakup produk-produk investasi yang tercatat di Bursa Efek Indonesia.
+Untuk mengetahui terkait Daftar Saham beserta sektornya:
+  Klik di sini
+  Papan Pencatatan Saham
+Perusahaan dapat mencatatkan sahamnya di Papan Utama, Papan Pengembangan atau Papan Akselerasi Bursa Efek Indonesia (BEI). Persyaratan untuk dapat mencatatkan saham di Bursa Efek Indonesia di Papan Utama dan Utama - Ekonomi Baru, Papan Pengembangan atau Papan Akselerasi adalah sebagai berikut:
+Papan Akselerasi
+Papan Akselerasi adalah Papan Pencatatan yang disediakan untuk mencatatkan saham dari Emiten dengan Aset Skala Kecil atau Emiten dengan Aset Skala Menengah sebagaimana dimaksud dalam Peraturan Otoritas Jasa Keuangan Nomor 53/POJK.04/2017 Tentang Pernyataan Pendaftaran Dalam Rangka Penawaran Umum dan Penambahan Modal Dengan Memberikan Hak Memesan Efek Terlebih Dahulu Oleh Emiten Dengan Aset Skala Kecil Atau Emiten Dengan Aset Skala Menengah dan belum dapat memenuhi persyaratan di Papan Pengembangan. Peraturan Pencatatan Papan Akselerasi diberlakukan oleh BEI pada 22 Juli tahun 2019.
+Latar Belakang
+1. Penetapan Peraturan OJK Terkait Penawaran Umum untuk Emiten dengan Aset Skala Kecil atau Menengah
+Pada tahun 2017 OJK telah memberlakukan POJK Nomor 53/POJK.04/2017 tentang Pernyataan Pendaftaran Dalam Rangka Penawaran Umum Dan Penambahan Modal Dengan Memberikan Hak Memesan Efek Terlebih Dahulu Oleh Emiten Dengan Aset Skala Kecil Atau Emiten Dengan Aset Skala Menengah.
+2. Karakteristik Perusahaan dengan Aset Skala Kecil dan Menengah
+Perusahaan dengan Aset Skala Kecil dan Menengahmemiliki karakteristik tersendiri, sehingga perlu diatur secara khusus baik dari aspek persyaratan, kewajiban, dan sanksi.
+Target Calon Perusahaan Tercatat di Papan Akselerasi
+Target Calon Perusahaan Tercatat di Papan Akselerasi adalah perusahaan dengan aset skala kecil atau menengah yang penggolongannya telah diatur dalam POJK Nomor 53/POJK.04/2017.
+Manfaat
+Manfaat dari Papan Akselerasi adalah sebagai berikut:
+Mekanisme Pencatatan
+Ketentuan dan Syarat Pencatatan
+Selain di Papan Utama dan Papan Pengembangan, saat ini Calon Perusahaan Tercatat dapat mencatatkan sahamnya di Papan Akselerasi. Berikut beberapa kemudahan untuk tercatat di Papan Akselerasi dibandingkan dengan Papan Utama dan Papan Pengembangan.
+
+*Aktiva Berwujud Bersih : Total Aset dikurangi dengan Aset Tak Berwujud, Aset Pajak Tangguhan, Total Liabilitas dan Kepentingan Non Pengendali
+Persyaratan lain yang wajib dipenuhi oleh calon Perusahaan Tercatat yang diatur melalui Peraturan OJK
+Biaya Pencatatan
+Bursa Efek menetapkan biaya pencatatan yang lebih rendah untuk pencatatan di Papan Akselerasi.
+Perpindahan Papan
+Perusahaan yang tercatat di Papan Akselerasi akan berpindah ke Papan Pengembangan atau Papan Utama atas pertimbangan Bursa, ketika :
+Sudah memenuhi ketentuan persyaratan pencatatan di Papan Pengembangan atau Papan Utama dan;
+
+Sudah tidak memenuhi kriteria perusahaaan aset skala kecil dan menengah menurut POJK 53.
+  PAPAN EKONOMI BARU
+Papan Ekonomi Baru adalah Papan Pencatatan Saham yang disediakan untuk mencatatkan saham dari perusahaan yang menggunakan teknologi untuk menciptakan inovasi produk dan/atau jasa yang meningkatkan produktivitas dan pertumbuhan ekonomi serta memiliki kemanfaatan sosial dan memiliki tingkat pertumbuhan yang tinggi. Diatur dalam Peraturan I-Y tentang Pencatatan Saham dan Efek Bersifat Ekuitas Selain Saham yang Diterbitkan oleh Perusahaan Tercatat di Papan Ekonomi Baru.
+Tujuan dari disediakannya Papan Pencatatan Ekonomi Baru ini mencakup:
+Dalam rangka mengakomodasi perkembangan perusahaan-perusahaan dengan kapitalisasi pasar yang besar namun memiliki karakteristik tertentu;
+Penerbitan POJK Nomor 22/POJK.04/2021 tentang Penerapan Klasifikasi Saham Dengan Hak Suara Multipel oleh Emiten Dengan Inovasi dan Tingkat Pertumbuhan Tinggi Yang Melakukan Penawaran Umum Efek Bersifat Ekuitas Berupa Saham; dan
+Menyediakan sarana tambahan untuk menunjang kewaspadaan investor dalam berinvestasi pada khususnya saham perusahaan yang memiliki karakteristik tertentu.
+Perusahaan yang tercatat di Papan Ekonomi Baru harus memenuhi karakteristik tertentu sebagai berikut:
+Memiliki pertumbuhan pendapatan yang tinggi;
+Menggunakan teknologi untuk menciptakan inovasi produk atau jasa yang meningkatkan produktivitas dan pertumbuhan ekonomi serta memiliki kemanfaatan sosial yang luas; dan
+Masuk dalam bidang usaha yang ditetapkan Bursa.
+Perusahaan yang memenuhi karakteristik tertentu sebagaimana disebutkan di atas dapat dicatatkan di Papan Ekonomi Baru.
+Kesetaraan dan Perbedaan Papan Ekonomi Baru Dengan Papan Utama
+Papan Ekonomi Baru ini memiliki ketentuan pencatatan yang setara dengan ketentuan pencatatan di Papan Utama sebagaimana ditentukan dalam Peraturan I-A Tentang Pencatatan Saham dan Efek Bersifat Ekuitas. Apabila Calon Perusahaan Tercatat memenuhi ketentuan pencatatan di papan Utama, dan memenuhi kriteria karakteristik tertentu, maka Bursa akan mencatatan Perusahaan di Papan Ekonomi Baru.
+Adapun posisi Papan Ekonomi Baru dengan Papan Pencatatan lainnya adalah sebagai berikut:
+Penyediaan Papan Ekonomi Baru ini merupakan upaya Bursa untuk mendorong perkembangan perusahaan yang memanfaatkan teknologi dan ekonomi digital, dan sebagai sarana branding bagi Perusahaan Tercatat. Selain itu, Papan Ekonomi Baru ini menyediakan segmentasi papan pencatatan di Bursa Efek Indonesia, sehingga memberikan sarana strategi investasi bagi Investor.
+Selain dari penyediaan segmentasi papan pencatatan, Bursa juga akan menyematkan notasi bagi perusahaan yang dicatatkan di Papan Ekonomi Baru, yang menandakan bahwa perusahaan yang bersangkutan adalah perusahaan yang masuk dalam papan pencatatan ekonomi baru dan/atau perusahaan yang menerapkan Saham Dengan Hak Suara Multipel (SHSM), dengan rincian notasi sebagai berikut:
+Notasi
+Keterangan
+K
+Perusahaan Tercatat yang menerapkan Saham Dengan Hak Suara Multipel dan tercatat di Papan Ekonomi Baru
+I
+Perusahaan Tercatat yang tidak menerapkan Saham Dengan Hak Suara Multipel dan tercatat di Papan Ekonomi Baru
+N
+Perusahaan Tercatat yang menerapkan Saham Dengan Hak Suara Multipel dan tercatat di Papan Utama atau Papan Pengembangan
+Sekilas Saham Dengan Hak Suara Multipel
+Saham Dengan Hak Suara Multipel (SHSM) adalah klasifikasi saham di mana 1 (satu) saham memberikan lebih dari 1 (satu) hak suara kepada pemegang saham yang memenuhi persyaratan. Pihak yang dapat memiliki SHSM dimuat dalam prospektus yang akan disampaikan ketika perusahaan akan mencatatkan sahamnya di Bursa. Adapun hak suara SHSM maksimal bisa sampai dengan 1 : 40. Hal ini diatur lebih detil pada peraturan Otoritas Jasa Keuangan Nomor 22/POJK/04/2021 tentang Penerapan Klasifikasi Saham Dengan Hak Suara Multipel oleh Emiten Dengan Inovasi dan Tingkat Pertumbuhan Tinggi yang Melakukan Penawaran Umum Efek Bersifat Ekuitas Berupa Saham.
+
+Bidang Usaha Papan Ekonomi Baru
+Bidang usaha yang ditetapkan Bursa adalah:
+Autonomous technology and industrial (teknologi dan industri otonom);
+Genomic and/or biomedicine (genom dan/atau biomedis);
+Fintech (teknologi keuangan);
+Next generation internet (5G) (generasi internet berikutnya (5G));
+Cloud computing & big data;
+Cyber security (keamanan cyber);
+Future cars (mobil masa depan);
+Video gaming (permainan video); dan
+Bidang usaha lain yang ditetapkan oleh Bursa.
+  Papan Pemantauan Khusus
+Papan Pemantauan Khusus adalah Papan Pencatatan dengan segmentasi tersendiri untuk Efek Bersifat Ekuitas yang memiliki kondisi tertentu sebagaimana dimaksud dalam peraturan nomor I-X perihal Penempatan Pencatatan Efek Bersifat Ekuitas pada Papan Pemantauan Khusus.
+Latar belakang Bursa menghadirkan Papan Pemantauan Khusus antara lain:
+Kondisi Perusahaan Tercatat yang dapat berubah dan menjadi tidak sesuai dengan segmentasi Papan Pencatatannya, sehingga kondisi tertentu yang sedang dialami oleh suatu Perusahaan Tercatat dapat berdampak terhadap portfolio investasi yang dimiliki oleh investor serta pada aktivitas perdagangan dan pembentukan harga saham Perusahaan Tercatat.
+Adanya saham illiquid yang dapat berdampak terhadap strategi investasi investor atau melakukan transaksi atas saham tersebut. 
+Papan Pemantauan Khusus ditujukan untuk dapat memberikan kesempatan bagi investor untuk menerapkan strategi investasinya dan meningkatkan likuiditas saham dengan kondisi tertentu, dengan tetap menjaga dan meningkatkan perlindungan investor.
+  Manfaat
+Untuk Investor
+Meningkatkan perlindungan investor dengan mengelompokkan efek yang mengalami kondisi tertentu ke dalam suatu papan pencatatan.
+Meningkatkan transparansi mengenai kondisi perusahaan tercatat.
+Meredam pembentukan harga saham yang kurang wajar melalui perdagangan periodic call auction yang lebih sesuai untuk saham dengan kondisi tertentu dan atau illiquid, yang juga telah diterapkan oleh Bursa Mancanegara.
+Mendukung mekanisme price discovery untuk saham dalam kondisi tertentu.
+Membuka kesempatan investor institusi untuk transaksi saham dengan harga Rp50 di pasar reguler dengan tetap memenuhi governance.
+Untuk Perusahaan Tercatat
+Meningkatkan likuiditas transaksi saham.
+Merupakan sarana bagi Perusahaan Tercatat dalam memperhatikan kinerja Perusahaan.
+Memberikan waktu yang memadai bagi Perusahaan Tercatat untuk memperbaiki kinerjanya sebelum sahamnya dikenakan suspensi.
+
+Kriteria Pemantauan Khusus
+Ada beberapa kriteria yang menyebabkan suatu efek bersifat ekuitas untuk masuk ke dalam Papan Pemantauan Khusus, yaitu:
+Harga rata-rata saham selama 6 (enam) bulan terakhir di Pasar Reguler kurang dari Rp51,00 (lima puluh satu rupiah);
+
+Laporan Keuangan Auditan terakhir mendapatkan opini tidak menyatakan pendapat (disclaimer);
+
+Tidak membukukan pendapatan atau tidak terdapat perubahan pendapatan pada Laporan Keuangan Auditan dan/atau Laporan Keuangan Interim terakhir dibandingkan dengan laporan keuangan yang disampaikan sebelumnya;
+
+Untuk Perusahaan Tercatat yang saat:
+Bergerak dalam bidang usaha pertambangan mineral dan batubara yang telah melaksanakan tahapan operasi produksi namun belum sampai tahapan penjualan atau yang belum memulai tahapan operasi produksi, atau
+Merupakan induk perusahaan yang memiliki Perusahaan Terkendali yang bergerak di bidang mineral dan batubara yang telah melaksanakan tahapan operasi produksi namun belum sampai tahapan penjualan atau yang belum memulai tahapan operasi produksi, pada akhir tahun buku ke-4 (keempat) sejak tercatat di Bursa, belum memperoleh pendapatan dari kegiatan usaha utama (core business);
+
+Memiliki ekuitas negatif pada laporan keuangan terakhir;
+
+Tidak memenuhi persyaratan untuk dapat tetap tercatat di Bursa sebagaimana diatur dalam:
+Peraturan Nomor I-A tentang Pencatatan Saham dan Efek Bersifat Ekuitas Selain Saham yang Diterbitkan Oleh Perusahaan Tercatat, untuk Perusahaan Tercatat yang sahamnya tercatat di Papan Utama atau di Papan Pengembangan;
+Peraturan Nomor I-V tentang Ketentuan Khusus Pencatatan Saham dan Efek Bersifat Ekuitas Selain Saham di Papan Akselerasi yang Diterbitkan oleh Perusahaan Tercatat, untuk Perusahaan Tercatat yang sahamnya tercatat di Papan Akselerasi;
+
+Memiliki likuiditas rendah dengan kriteria nilai transaksi rata-rata harian saham kurang dari Rp5.000.000,00 (lima juta rupiah) dan volume transaksi rata-rata harian saham kurang dari 10.000 (sepuluh ribu) saham selama 6 (enam) bulan terakhir di Pasar Reguler dan/atau Pasar Reguler Periodic Call Auction;
+
+Dalam kondisi dimohonkan Penundaan Kewajiban Pembayaran Utang (PKPU), dimohonkan pailit, atau pembatalan perdamaian;
+
+Memiliki anak perusahaan yang kontribusi pendapatannya material bagi Perusahaan Tercatat dan anak perusahaan tersebut dalam kondisi dimohonkan PKPU, dimohonkan pailit, atau pembatalan perdamaian;
+
+Dikenakan penghentian sementara perdagangan Efek selama lebih dari 1 (satu) Hari Bursa yang disebabkan oleh aktivitas perdagangan, dan/atau;
+
+Kondisi lain yang ditetapkan oleh Bursa setelah memperoleh persetujuan atau perintah dari Otoritas Jasa Keuangan.
+
+Ketentuan untuk Keluar dari Papan Pemantauan Khusus
+Perusahaan Tercatat dapat keluar dari Papan Pemantauan Khusus dengan ketentuan sebagai berikut:
+Sudah tidak dalam kondisi sebagaimana dimaksud dalam ketentuan kriteria Papan Pemantauan Khusus nomor 1, 2, 3, 5, 6, 8, dan 9;
+Telah membukukan pendapatan berdasarkan laporan keuangan terkini untuk Perusahaan Tercatat dalam kondisi sebagaimana dimaksud dalam ketentuan kriteria Papan Pemantauan Khusus nomor 4;
+Sudah tidak dalam kondisi likuiditas rendah sebagaimana dimaksud dalam ketentuan kriteria Papan Pemantauan Khusus nomor 7 atau telah memiliki Liquidity Provider Saham;
+Telah berada pada Papan Pemantauan Khusus selama 30 (tiga puluh) hari kalender untuk Perusahaan Tercatat yang dalam kondisi sebagaimana dimaksud dalam ketentuan kriteria Papan Pemantauan Khusus Nomor 10;
+Sudah tidak dalam kondisi lain sebagaimana dimaksud dalam ketentuan kriteria Papan Pemantauan Khusus nomor 11; dan
+Harga saham dari Perusahaan Tercatat paling kurang Rp50,00 (lima puluh rupiah), kecuali untuk saham yang sebelumnya tercatat pada Papan Akselerasi.
+Dalam hal Perusahaan Tercatat belum memenuhi keseluruhan ketentuan di atas, Perusahaan Tercatat tetap berada pada Papan Pemantauan Khusus dengan informasi kriteria sebelumnya.
+
+Mekanisme Perdagangan
+Mekanisme perdagangan untuk Efek Bersifat Ekuitas yang ada di Papan Pemantauan Khusus menggunakan periodic call auction. Pada mekanisme periodic call auction, order akan dikumpulkan selama Order Collecting Phase hingga Random Closing Phase, yang kemudian akan dilakukan matching pada Order Matching Phase di akhir sesi.
+Dengan waktu perdagangan sebagai berikut:
+Mekanisme perdagangan periodic call auction lebih tepat digunakan pada Papan Pemantauan Khusus karena:
+Metode perdagangan yang lebih tepat untuk saham-saham yang transaksinya lebih sedikit (less frequent), sehingga dapat memperbaiki mekanisme price discovery.
+Meredam volatilitas perdagangan saham dan mengurangi sensitifitas terhadap adanya order yang sifatnya ekstrim (tekanan penggiringan harga).
+Telah diterapkan di banyak Bursa global sebagai mekanisme perdagangan saham dengan likuiditas rendah dan di bawah pemantauan.
+Adapun rincian mekanisme Perdagangan Periodic Call Auction untuk Efek Bersifat Ekuitas pada Papan Pemantauan Khusus sebagai berikut:
+Papan Pemantauan Khusus Full Call Auction
+Metode Perdagangan
+Periodic Call Auction
+Minimum Price
+Rp1
+Auto Rejection (AR)
+·AR Rp1 untuk rentang harga Rp1 – Rp10
+·AR 10% untuk rentang harga > Rp10
+Maximum Price Movement
+Tidak berlaku
+
+Notasi Khusus
+Notasi khusus adalah huruf tambahan yang diberikan di belakang kode Perusahaan Tercatat yang mengalami kondisi tertentu sebagaimana dimaksud dalam Surat Edaran Nomor SE-00017/BEI/07-2021 perihal Penambahan Tampilan Informasi Notasi Khusus pada Kode Perusahaan Tercatat. Hal ini merupakan salah satu upaya meningkatkan perlindungan terhadap investor.
+Saham yang merupakan Efek Bersifat Ekuitas pada Papan Pemantauan Khusus akan diberikan notasi khusus “X” (eXtra Caution).
